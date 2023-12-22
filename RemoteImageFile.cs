@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GlobalCalc.Models
+namespace GlobalCalc.Shared
 {
     public class RemoteImageFile
     {

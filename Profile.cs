@@ -1,4 +1,4 @@
-namespace GlobalCalc.Models;
+namespace GlobalCalc.Shared;
 
 public enum ProfileType
 {

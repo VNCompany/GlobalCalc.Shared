@@ -1,4 +1,4 @@
-﻿namespace GlobalCalc.Models.Test
+﻿namespace GlobalCalc.Shared.Test
 {
     public class TestFacadeData : FacadeData
     {
